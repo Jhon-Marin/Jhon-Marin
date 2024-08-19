@@ -11,7 +11,8 @@
 - 🌱 I’m currently learning automation softwares like PowerAutomate and UiPath and a lot of the microsoft enviroment as .NET and C#.
 - 🤔 I’m looking for help to build knowledge about IA and Machine learning.
 - 📫 How to reach me: **jhonmarin00a@gmail.com**
-
+  
+- ▶️ here on the right there is a little game using C# that gives an insight about my skills on the C#, Github and HTML enviroment
 <br clear="right"/>
 
 ## 📬 Connect with Me
