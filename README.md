@@ -1,10 +1,11 @@
 <h1 align="center">Hi, I'm Jhon Marin  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+
 ## 🌐 About Me
 
-<iframe src="https://jhon-marin.github.io/MiniGame-Portfolio/"></iframe>
-
-<img align="right" src="https://github.com/DennisJuilland/DennisJuilland/blob/main/Images/Right_Side.gif?raw=true" width="250">
+<a href="https://jhon-marin.github.io/MiniGame-Portfolio/">
+  <img align="right" src="https://github.com/Jhon-Marin/MiniGame-Portfolio/blob/main/ImagenMuestraFF.png" width="300">
+</a>
 
 - 🔭 I’m currently looking for a job in the area of data science or developing automation.
 - 🌱 I’m currently learning automation softwares like PowerAutomate and UiPath and a lot of the microsoft enviroment as .NET and C#.
