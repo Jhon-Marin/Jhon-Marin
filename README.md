@@ -12,7 +12,7 @@
 - 🤔 I’m looking for help to build knowledge about IA and Machine learning.
 - 📫 How to reach me: **jhonmarin00a@gmail.com**
   
-- ▶️ here on the right there is a little game using C# that gives an insight about my skills on the C#, Github and HTML enviroment
+- ▶️ here on the right there is a little game using C# that gives an insight about my skills on the C#, Github and HTML enviroment (use ↔️ & space)
 <br clear="right"/>
 
 ## 📬 Connect with Me
