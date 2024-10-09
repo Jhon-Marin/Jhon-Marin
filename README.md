@@ -8,8 +8,8 @@
 </a>
 
 - 🔭 I’m currently looking for a job in the area of data science or developing automation.
-- 🌱 I’m currently learning automation softwares like PowerAutomate and UiPath and a lot of the microsoft enviroment as .NET and C#.
-- 🤔 I’m looking for help to build knowledge about IA and Machine learning.
+- 🌱 I’m currently learning data science softwares as Azure, Spark and also libraries like PyTorch and Tensorflow.
+- 🤔 I’m looking for help to build knowledge about AI and Machine learning.
 - 📫 How to reach me: **jhonmarin00a@gmail.com**
   
 - ▶️ here on the right there is a little game using C# that gives an insight about my skills on the C#, Github and HTML enviroment (use ↔️ & space)
